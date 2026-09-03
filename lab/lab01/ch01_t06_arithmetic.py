@@ -1,1 +1,1 @@
-product =
+product = 20*30
