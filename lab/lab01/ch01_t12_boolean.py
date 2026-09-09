@@ -3,6 +3,6 @@
 # I'm 21 years old and I plan to program cool stuff forever.
 a=True
 b=False
-age_is_12 =b
+age_is_12 = b
 
-name_is_maria=
+name_is_maria= a
