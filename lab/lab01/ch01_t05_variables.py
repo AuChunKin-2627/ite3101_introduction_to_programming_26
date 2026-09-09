@@ -1,1 +1,3 @@
-in
+input datetime
+
+todays_date = f""
