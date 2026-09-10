@@ -1,2 +1,2 @@
-print
+parrot = "Norwegian"
 print(len(parrot))
