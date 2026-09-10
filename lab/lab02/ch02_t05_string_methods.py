@@ -1,2 +1,2 @@
-parrot = "Norwegian"
+parrot = "Norwegian Blue"
 print(len(parrot))
