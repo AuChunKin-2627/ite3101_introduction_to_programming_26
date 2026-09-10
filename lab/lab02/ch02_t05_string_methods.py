@@ -1,2 +1,2 @@
 print
-len(parrot)
+print(len(parrot))
