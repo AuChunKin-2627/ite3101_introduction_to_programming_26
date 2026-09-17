@@ -1,4 +1,4 @@
 # Write your code below, starting on line 3!
 
 my_string="stu"
-p
+print(len(my_string))
