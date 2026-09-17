@@ -2,4 +2,4 @@
 
 my_string = "stu"
 print(len("my_string"))
-print()
+print(my_string)
