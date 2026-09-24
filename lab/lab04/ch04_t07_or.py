@@ -13,10 +13,10 @@ b=True or False
 c=100 ** 0.5 >= 50 or False
 d=True or True
 e=1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
-f=
+f=3 * 2 * 1 != 3 + 2 + 1
 print(a)
 print(b)
 print(c)
 print(d)
 print(e)
-
+print(f)
