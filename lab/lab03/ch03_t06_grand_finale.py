@@ -5,4 +5,4 @@ now = datetime.now()
 print('%02d:%02d:%04d' % (now.hour, now.minute, now.second))
 print('%02d:%02d:%02d' % (now.month, now.day, now.year))
 print('%02d/%02d/%04d %02d:%02d:%02d' %
-      (now.month, now.day, now.year, now.hour,  now.minute, now.second))
+      (now.month, now.day, now.year, now.hour, now.minute, now.second))
