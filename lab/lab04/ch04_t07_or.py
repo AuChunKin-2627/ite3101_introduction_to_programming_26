@@ -10,8 +10,8 @@ bool_five = True
 
 a=2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur'
 b=True or False
-c=
-d=
+c=100 ** 0.5 >= 50 or False
+d=True or True
 e=
 
 
