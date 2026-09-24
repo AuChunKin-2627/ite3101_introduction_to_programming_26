@@ -10,7 +10,7 @@ bool_two = 52 > 300
 bool_three = 32 <= 64
 
 # Make me false!
-bool_four = -18 >= -
+bool_four = -18 >= 10
 
 # Make me true!
 bool_five = 10+7-2*3 < 256/16-55
