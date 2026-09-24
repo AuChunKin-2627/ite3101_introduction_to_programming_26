@@ -5,4 +5,4 @@ print(now.hour)
 print(now.minute)
 print(now.second)
 
-print()
+print('%02d"%02d')
