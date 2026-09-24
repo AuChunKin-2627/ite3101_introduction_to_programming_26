@@ -13,4 +13,4 @@ bool_three = 2**6 = 8*4
 bool_four = 2036/22 <= -10**10
 
 # Make me true!
-bool_five = None
+bool_five = No25ne
