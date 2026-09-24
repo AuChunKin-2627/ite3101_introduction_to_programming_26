@@ -7,7 +7,7 @@ bool_one = 3 < 5  # We already did this one for you!
 bool_two = 52 > 300
 
 # Make me true!
-bool_three = 32 <= 
+bool_three = 32 <= 64
 
 # Make me false!
 bool_four = 2036/22 <= -10**10
