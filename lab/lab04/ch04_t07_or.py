@@ -9,7 +9,7 @@ bool_four = True
 bool_five = True
 
 a=2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur'
-b=
+b=True or False
 c=
 d=
 e=
