@@ -4,7 +4,7 @@
 bool_one = 3 < 5  # We already did this one for you!
 
 # Make me false!
-bool_two = 100/50 == 3**3
+bool_two = 
 
 # Make me true!
 bool_three = 2*6 < 8*4
