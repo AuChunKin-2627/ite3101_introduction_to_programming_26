@@ -8,7 +8,7 @@ bool_four = True
 
 bool_five = True
 
-a=
+a=2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur'
 b=
 c=
 d=
