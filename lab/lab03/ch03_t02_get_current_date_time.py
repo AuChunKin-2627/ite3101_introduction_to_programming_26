@@ -4,6 +4,7 @@ print(datetime.now())
 print(now)
 print(now)
 print(now)
-
-
-
+print(now)
+print(now)
+print(now)
+print(now)
