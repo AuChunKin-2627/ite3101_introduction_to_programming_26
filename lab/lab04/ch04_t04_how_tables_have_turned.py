@@ -13,4 +13,4 @@ bool_three = 2**6 = 8*4
 bool_four = 2036/22 <= -10**10
 
 # Make me true!
-bool_five = 10+7-2*3 <= 256/16=55
+bool_five = 10+7-2*3 < 256/16=55
