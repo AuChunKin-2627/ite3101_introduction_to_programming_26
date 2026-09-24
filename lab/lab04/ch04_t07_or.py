@@ -14,6 +14,7 @@ c=100 ** 0.5 >= 50 or False
 d=True or True
 e=1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
 f=3 * 2 * 1 != 3 + 2 + 1
+g=
 print(a)
 print(b)
 print(c)
