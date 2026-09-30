@@ -1,5 +1,5 @@
 def using_control_once() -> str:
-    if None:
+    if Ture:
         return "Success #1"
 
 
