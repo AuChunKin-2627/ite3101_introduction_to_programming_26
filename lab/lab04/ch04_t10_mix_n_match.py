@@ -13,4 +13,5 @@ print(bool_three)
 bool_four = 2**5 == 256/4 or "carlos".upper() == "CARLOS"
 print(bool_four)
 # Make me true!
-bool_five = int("5")
+bool_five = int("5") **5
+print(bool_five)
