@@ -8,4 +8,4 @@ if answer == "Left":
 # Set response to 'Y' if you think so, and 'N' if you think not.
 
 x = 2
-if x ==
+if x == 
