@@ -5,7 +5,7 @@ original = input("Enter a word:")
 
 if len(original) > 0:
     print(original)
-    if
+    if original.isalpha
 else:
     print("empty")
 
