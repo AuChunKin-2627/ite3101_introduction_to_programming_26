@@ -10,7 +10,7 @@ if answer == "Left":
 x = 0
 if x == 2:
     print("Y")
-elif x > 1:
+elif x > 2:
     print("N")
 elif x == 0:
     print("Hello")
