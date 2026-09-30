@@ -8,7 +8,7 @@ bool_two = "Jenkin" != "Janny" or not 3-2 =1
 print(bool_two)
 # Make me false!
 bool_three = None
-
+print(bool_three)
 # Make me true!
 bool_four = None
 
