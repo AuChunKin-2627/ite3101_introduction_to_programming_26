@@ -12,5 +12,5 @@ if x == 2:
     print("Y")
 elif x < 1:
     print("N")
-elif x =0:
+elif x == 0:
     print("Hello")
