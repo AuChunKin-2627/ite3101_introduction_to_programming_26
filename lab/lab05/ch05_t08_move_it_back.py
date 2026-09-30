@@ -1,5 +1,5 @@
 pyg = 'ay'
-new_word = word + first + pyg
+
 
 original = input('Enter a word:')
 
