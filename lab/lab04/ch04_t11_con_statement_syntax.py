@@ -7,8 +7,8 @@ if answer == "Left":
 # Will the above print statement print to the console?
 # Set response to 'Y' if you think so, and 'N' if you think not.
 
-x = 2
+x = 0
 if x == 2:
     print("Y")
-elif x <1:
+elif x < 1:
     print("N")
