@@ -3,5 +3,5 @@ print('Welcome to the Pig Latin Translator!')
 # Start coding here!
 original = input("Enter a word:")
 
-if len(input)>0:
-    
+if len(original) > 0:
+
