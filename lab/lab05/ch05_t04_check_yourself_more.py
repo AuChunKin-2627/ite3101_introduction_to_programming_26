@@ -7,3 +7,7 @@ if len(original) > 0:
     print(original)
 else:
     print("empty")
+
+
+x="J1234"
+x.isalpha()
