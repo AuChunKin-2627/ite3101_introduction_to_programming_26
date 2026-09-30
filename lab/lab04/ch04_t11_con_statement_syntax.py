@@ -1,7 +1,7 @@
 response = Y
 
 answer = "you think so"
-if answer == "you thin":
+if answer == "you think so":
     print("This is the Verbal Abuse Room, you heap of parrot droppings!")
 
 # Will the above print statement print to the console?
