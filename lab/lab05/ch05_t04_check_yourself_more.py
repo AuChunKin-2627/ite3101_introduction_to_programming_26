@@ -11,4 +11,4 @@ else:
 
 x="J1234"
 x.isalpha()
-print()
+print(x.isalpha())
