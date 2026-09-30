@@ -7,8 +7,3 @@ if len(original) > 0 and original.isalpha() == True:
     print(original)
 else:
     print("empty")
-
-
-x = "J"
-x.isalpha()
-print(x.isalpha())
