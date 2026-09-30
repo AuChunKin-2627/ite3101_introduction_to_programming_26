@@ -7,3 +7,5 @@ if answer == "Left":
 # Will the above print statement print to the console?
 # Set response to 'Y' if you think so, and 'N' if you think not.
 
+x = 2
+if x ==
