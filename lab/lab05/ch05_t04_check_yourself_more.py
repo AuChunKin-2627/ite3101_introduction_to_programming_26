@@ -9,6 +9,6 @@ else:
     print("empty")
 
 
-x="J1234"
+x = "1234"
 x.isalpha()
 print(x.isalpha())
