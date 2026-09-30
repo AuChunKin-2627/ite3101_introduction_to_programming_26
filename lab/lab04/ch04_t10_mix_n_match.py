@@ -11,6 +11,6 @@ bool_three = not 3 - 2 == 1 and 100 % 80 >= 40
 print(bool_three)
 # Make me true!
 bool_four = 2**5 >= 256/2
-
+print(bool_four)
 # Make me true!
 bool_five = None
