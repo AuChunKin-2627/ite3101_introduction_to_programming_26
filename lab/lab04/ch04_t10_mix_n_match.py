@@ -4,10 +4,10 @@
 bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
 
 # Make me true!
-bool_two = "Jenkin" != "Janny" or 3 < -2 
+bool_two = "Jenkin" != "Janny" or 3 < -2
 print(bool_two)
 # Make me false!
-bool_three = 3 - 2 =＝ 1
+bool_three = 3 - 2 == 1
 print(bool_three)
 # Make me true!
 bool_four = None
