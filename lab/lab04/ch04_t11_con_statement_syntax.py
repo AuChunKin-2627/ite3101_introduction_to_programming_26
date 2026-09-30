@@ -10,4 +10,4 @@ if answer == "Left":
 x = 2
 if x == 2:
     print("Y")
-    i
+    if
