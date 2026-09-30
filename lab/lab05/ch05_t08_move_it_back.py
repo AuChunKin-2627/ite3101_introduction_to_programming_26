@@ -9,3 +9,4 @@ if len(original) > 0 and original.isalpha():
 else:
     print("empty")
 print(new_word)
+p
