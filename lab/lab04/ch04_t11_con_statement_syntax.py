@@ -1,6 +1,6 @@
 response = Y
 
-answer = "Left"
+answer = "you think so"
 if answer == "Left":
     print("This is the Verbal Abuse Room, you heap of parrot droppings!")
 
