@@ -1,4 +1,4 @@
-response = Y
+response = "Y"
 
 answer = "you think so"
 if answer == "you think so":
