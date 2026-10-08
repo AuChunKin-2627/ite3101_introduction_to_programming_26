@@ -2,5 +2,5 @@ def one_good_turn(n: int) ->int:
     return n + 1
 
 
-def deserves_another(m: int):
+def deserves_another(m: int) ->int:
     return deserves_another(m) + 2
