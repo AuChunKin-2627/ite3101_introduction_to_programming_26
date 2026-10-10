@@ -1,5 +1,5 @@
-def hotel_cost(nights: int) -> int:
-    return 140 * nights
+def hotel_cost(days-1: int) -> int:
+    return 140 * days-1
 
 
 def plane_ride_cost(city: str) -> int:
