@@ -1,2 +1,1 @@
-def bigger(first:int, second:int)->bool
-    
+def answer(first:int, second:int)->bool
