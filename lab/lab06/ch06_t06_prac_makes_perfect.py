@@ -1,5 +1,5 @@
 def cube(number: int):
-    return number*number*number
+    return number**3
 
     def by_three(number: int):
         if number % 3 == 0:
