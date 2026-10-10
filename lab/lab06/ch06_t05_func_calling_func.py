@@ -7,4 +7,4 @@ def deserves_another(n: int) -> int:
 
 
 deserves_another(3)
-print(one_good_turn(2))
+print(deserves_another(3))
