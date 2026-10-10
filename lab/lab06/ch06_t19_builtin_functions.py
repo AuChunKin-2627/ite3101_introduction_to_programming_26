@@ -1,2 +1,2 @@
 def distance_from_zero(number:int)->bool:
-    return 
+    return type(number) == int or type(number) ==f
