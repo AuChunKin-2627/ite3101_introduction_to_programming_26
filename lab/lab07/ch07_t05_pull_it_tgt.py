@@ -26,6 +26,6 @@ def trip_cost(city:str, days:int):
 
 print(rental_car_cost(2))
 print(hotel_cost(2-1))
-print(plane_ride_cost(city))
+print(plane_ride_cost("tampa"))
 print(trip_cost("Tampa",2))
 
