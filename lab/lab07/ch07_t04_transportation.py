@@ -15,7 +15,7 @@ def finish_game(score):
     tickets = 10 *score
     if score >=10:
         tickets +=50
-    elif score >=7
+    elif score >=7:
     tickets +=20
     return tickets
 print(finish_game(50))
