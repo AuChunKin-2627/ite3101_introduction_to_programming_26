@@ -8,3 +8,4 @@ def plane_ride_cost(city:str):
         return 220
     elif city == "Pittsbrgh":
         return 222
+    return
