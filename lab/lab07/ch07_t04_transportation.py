@@ -22,4 +22,4 @@ def finish_game(score):
     return tickets
 
 
-print(finish_game(10))
+print(finish_game(7))
