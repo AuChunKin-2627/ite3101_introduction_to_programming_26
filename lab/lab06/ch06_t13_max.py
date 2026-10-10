@@ -1,5 +1,5 @@
 # Set maximum to the max value of any set of numbers on line 3!
 
-maximum = max(88,56,-57,)
+maximum = max(88, 56, -57, 1)
 
 print(maximum)
