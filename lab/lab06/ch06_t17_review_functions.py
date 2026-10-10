@@ -2,4 +2,5 @@ def shut_down(s:str)->str:
     return s
 
 if yes():
-    speak("I")
+    speak("Shutting down")
+elif 
