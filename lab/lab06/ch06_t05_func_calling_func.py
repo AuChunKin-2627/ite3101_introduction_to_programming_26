@@ -5,5 +5,3 @@ def one_good_turn(n: int) -> int:
 def deserves_another(n: int) -> int:
     return one_good_turn(n) + 2
 
-deserves_another(3)
-print(deserves_another(3))
