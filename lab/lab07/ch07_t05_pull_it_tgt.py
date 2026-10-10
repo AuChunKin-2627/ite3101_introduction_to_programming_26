@@ -1,4 +1,4 @@
-def hotel_cost((days-1: int) -> int:
+def hotel_cost((days-1): int) -> int:
     return 140 * days-1
 
 
