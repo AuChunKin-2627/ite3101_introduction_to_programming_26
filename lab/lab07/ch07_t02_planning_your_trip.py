@@ -1,2 +1,2 @@
 def hotel_cost(nights:float)->float:
-    #if I
+    #if I rent ho
