@@ -1,1 +1,1 @@
-def bigger(first:int, second:int)->
+def bigger(first:int, second:int)->b
