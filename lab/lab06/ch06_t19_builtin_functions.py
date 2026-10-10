@@ -4,4 +4,4 @@ def distance_from_zero(number):
     return "Nope"
 
 
-print(distance_from_zero(abc))
+print(distance_from_zero("abc"))
