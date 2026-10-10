@@ -13,7 +13,7 @@ def plane_ride_cost(city: str) -> int:
         return 475
 
 
-def rental_car_cost(days:int):->
+def rental_car_cost(days:int):->int
     tickets = 10 * score
     if score >= 10:
         tickets += 50
