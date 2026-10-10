@@ -12,11 +12,14 @@ def plane_ride_cost(city: str) -> int:
     elif city == "Los Angeles":
         return 475
 
+
 def finish_game(score):
-    tickets = 10 *score
-    if score >=10:
-        tickets +=50
-    elif score >=7:
-        tickets +=20
+    tickets = 10 * score
+    if score >= 10:
+        tickets += 50
+    elif score >= 7:
+        tickets += 20
     return tickets
-print(finish_game(50))
+
+
+print(finish_game(10))
