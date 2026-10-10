@@ -7,4 +7,3 @@ def shut_down(s: str) -> str:
     else:
         return("Sorry")
 
-st
