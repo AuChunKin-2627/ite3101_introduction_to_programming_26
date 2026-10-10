@@ -6,3 +6,6 @@ def cube(number: int):
             return cube(number)
         else:
             return False
+
+
+cube(10)
