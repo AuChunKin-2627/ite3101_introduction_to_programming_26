@@ -1,1 +1,2 @@
-def bigger(first:int, second:int)->b
+def bigger(first:int, second:int)->bool
+    
