@@ -1,3 +1,3 @@
 def distance_from_zero(number)->bool:
-    if 
-    return type(number) == int or type(number) ==float:
+    if type(number) == int or type(number) ==float:
+    return 
