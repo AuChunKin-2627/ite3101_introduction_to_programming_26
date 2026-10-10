@@ -14,4 +14,4 @@ def plane_ride_cost(city: str):
     return "None"
 
 
-print(plane_ride_cost("Pittsbrgh"))
+print(plane_ride_cost("Los Angleles"))
