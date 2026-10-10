@@ -3,4 +3,4 @@ def hotel_cost(nights: float) -> float:
     return 140*nights
 
 
-print(hotel_cost(8))
+print(hotel_cost(1))
