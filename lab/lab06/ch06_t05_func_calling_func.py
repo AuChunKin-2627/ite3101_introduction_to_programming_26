@@ -2,5 +2,8 @@ def one_good_turn(n: int) -> int:
     return n + 1
 
 
-def deserves_another(m: int) -> int:
-    return deserves_another(m) + 2
+def deserves_another(n: int) -> int:
+    return one_good_turn(n) + 2
+
+
+one_good_turn(2)
