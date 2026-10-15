@@ -6,8 +6,3 @@ if len(zoo_animals) > 3:
     print("The second animal at the zoo is the " + zoo_animals[1])
     print("The third animal at the zoo is the " + zoo_animals[2])
     print("The fourth animal at the zoo is the " + zoo_animals[3])
-
-
-mck = ["a", "b", "c", 1, 3]
-
-print(str(mck[0]) + str(mck[2])
