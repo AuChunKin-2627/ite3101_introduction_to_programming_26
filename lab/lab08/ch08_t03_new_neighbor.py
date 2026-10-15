@@ -3,7 +3,7 @@ zoo_animals = ["pangolin", "cassowary", "sloth", "tiger"]
 # the poor tiger and ate it whole.
 
 # The ferocious sloth has been replaced by a friendly hyena.
-zoo_animals[2] = ""
+zoo_animals[2] = "lion"
 
 # What shall fill the void left by our dear departed tiger?
 # Your code here!
