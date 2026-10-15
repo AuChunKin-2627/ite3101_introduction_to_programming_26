@@ -7,7 +7,7 @@ first = suitcase[0:2]
 middle = suitcase[1:3]
 
 # The last two items (index four and five)
-last = suitcase[3:2]
+last = suitcase[3:5]
 
 print(first)
 print(middle)
