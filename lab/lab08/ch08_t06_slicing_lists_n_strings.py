@@ -8,6 +8,3 @@ dog = animals[3:7]
 
 # From the seventh character to the end
 frog = animals[6:]
-
-
-
