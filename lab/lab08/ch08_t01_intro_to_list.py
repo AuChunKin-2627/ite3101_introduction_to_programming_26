@@ -10,4 +10,4 @@ if len(zoo_animals) > 3:
 
 mck = ["a", "b", "c", 1, 3]
 
-print(mck[0] + mck[-1])
+print(str(mck[0]) + str(mck[2])
