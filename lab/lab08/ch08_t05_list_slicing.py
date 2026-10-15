@@ -4,7 +4,7 @@ suitcase = ["sunglasses", "hat", "passport", "laptop", "suit", "shoes"]
 first = suitcase[0:2]
 
 # Third and fourth items (index two and three)
-middle = suitcase[2:2]
+middle = suitcase[1:2]
 
 # The last two items (index four and five)
 last = None
