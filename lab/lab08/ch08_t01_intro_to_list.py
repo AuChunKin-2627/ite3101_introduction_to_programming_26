@@ -1,4 +1,4 @@
-zoo_animals = ["pangolin", "cassowary", "sloth", "cat" ]
+zoo_animals = ["pangolin", "cassowary", "sloth", "cat"]
 # One animal is missing!
 
 if len(zoo_animals) > 3:
@@ -6,3 +6,8 @@ if len(zoo_animals) > 3:
     print("The second animal at the zoo is the " + zoo_animals[1])
     print("The third animal at the zoo is the " + zoo_animals[2])
     print("The fourth animal at the zoo is the " + zoo_animals[3])
+
+
+mck= ["a" ,"b","c",1,3]
+
+print(mcl[-1])
