@@ -13,4 +13,5 @@ del zoo_animals['Unicorn']
 del zoo_animals['Sloth']
 del zoo_animals['Bengal Tiger']
 zoo_animals['Rockhopper Penguin'] = 'Arctic Exhibit'
+zoo_animals[]
 print(zoo_animals)
