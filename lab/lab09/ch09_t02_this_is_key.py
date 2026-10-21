@@ -7,4 +7,4 @@ webster = {
 
 # Add your code below!
 for x in webster:
-    print
+    print()
