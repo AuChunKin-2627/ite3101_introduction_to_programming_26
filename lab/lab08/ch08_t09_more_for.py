@@ -1,4 +1,4 @@
-start_list = [1, 9, 3, 8, 5, 7]
+start_list = [5, 3, 1, 2, 4]
 square_list = []
 
 # Your code here!
