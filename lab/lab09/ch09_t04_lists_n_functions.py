@@ -9,5 +9,5 @@ def fizz_count(x):
 
 
 lotto = ['fizz', 'cat', 'fizz']
-small = count_small(lotto)
+small = fizz_count(lotto)
 print(small)
