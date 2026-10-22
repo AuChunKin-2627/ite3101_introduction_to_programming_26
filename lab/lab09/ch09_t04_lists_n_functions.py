@@ -1,5 +1,5 @@
 # Write your function below!
-def count_small(numbers):
+def 火戈ZZ(numbers):
 
     total = 0
     for n in numbers:
