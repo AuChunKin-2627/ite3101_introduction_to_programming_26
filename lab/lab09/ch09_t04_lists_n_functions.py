@@ -1,5 +1,5 @@
 # Write your function below!
-def 火戈ZZ(numbers):
+def fizz_count(numbers):
 
     total = 0
     for n in numbers:
