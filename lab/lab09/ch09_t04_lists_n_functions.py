@@ -4,7 +4,7 @@ def fizz_count(x):
     count = 0
     for  in x:
         if n < 10:
-            total = total+1
+            count = count+1
     return total
 
 lotto = [4, 8, 15, 16, 23, 42]
