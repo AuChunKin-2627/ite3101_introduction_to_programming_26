@@ -2,7 +2,7 @@
 def fizz_count(numbers):
 
     count = 0
-    for n in numbers:
+    for x in numbers:
         if n < 10:
             total = total+1
     return total
