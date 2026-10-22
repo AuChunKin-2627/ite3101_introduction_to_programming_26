@@ -3,8 +3,8 @@ def fizz_count(x):
 
     count = 0
     for n in x:
-        if n < 10:
-            count = count+1
+        if x == 'fizz'
+        count = count+1
     return count
 
 
