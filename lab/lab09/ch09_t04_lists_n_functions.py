@@ -2,11 +2,12 @@
 def fizz_count(x):
 
     count = 0
-    for  in x:
+    for in x:
         if n < 10:
             count = count+1
     return count
 
-lotto = ['fizz','cat','']
+
+lotto = ['fizz', 'cat', 'fizz']
 small = count_small(lotto)
 print(small)
