@@ -7,6 +7,6 @@ def fizz_count(x):
             count = count+1
     return count
 
-lotto = [4, 8, 15, 16, 23, 42]
+lotto = []
 small = count_small(lotto)
 print(small)
