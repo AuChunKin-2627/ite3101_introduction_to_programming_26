@@ -13,6 +13,6 @@ stock = {
 once = {'a': 1, 'b': 2}
 
 twice = {'a': 2, 'b': 4}
-for key in once:
+for key in prices:
     print("prices: %s" % prices[key])
     print("stock: %s" % stock[key])
