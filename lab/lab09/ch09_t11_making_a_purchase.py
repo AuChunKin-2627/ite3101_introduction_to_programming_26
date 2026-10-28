@@ -19,3 +19,4 @@ def compute_bill(food):
     total = 0
     for x in food:
         total += x
+        
