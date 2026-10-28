@@ -11,7 +11,7 @@ stock = {
     "pear": 15,
 }
 
-for key in prices:
+for key in price:
     print(key)
-    print("prices: %s" % prices[key])
+    print("price: %s" % prices[key])
     print("stock: %s" % stock[key])
