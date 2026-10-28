@@ -22,3 +22,4 @@ for key in price:
     print(subtotal)
 
     total = total + subtotal
+print(total)
