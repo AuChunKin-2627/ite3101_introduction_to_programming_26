@@ -1,4 +1,4 @@
-prices = {
+price = {
     "banana": 4,
     "apple": 2,
     "orange": 1.5,
@@ -11,7 +11,7 @@ stock = {
     "pear": 15,
 }
 
-for key in prices:
+for key in price:
     print(key)
-    print("prices: %s" % prices[key])
+    print("price: %s" % price[key])
     print("stock: %s" % stock[key])
