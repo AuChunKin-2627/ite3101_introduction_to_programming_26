@@ -1,6 +1,7 @@
 num = 1
 
-while 
+while num<11:
+    
 
 
 
