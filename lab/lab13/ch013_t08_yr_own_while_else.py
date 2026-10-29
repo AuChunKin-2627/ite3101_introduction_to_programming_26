@@ -5,7 +5,7 @@ random_number = randint(1, 10)
 
 guesses_left = 3
 # Start your game!
-
+print(Please a)
 while guesses_left > 0:
     print(random_number)
     if random_number == 5:
