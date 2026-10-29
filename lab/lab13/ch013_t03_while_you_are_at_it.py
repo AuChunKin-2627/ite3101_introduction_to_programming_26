@@ -1,7 +1,8 @@
 num = 1
 
 while num < 11:
-    
+    num += 1
+    print(num)
 
 
 
