@@ -10,3 +10,5 @@ while guesses_left > 0:
     if random_number == 5:
         print("You win!")
         break
+    guesses_left -=1
+else
