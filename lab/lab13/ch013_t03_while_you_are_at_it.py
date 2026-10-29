@@ -1,7 +1,7 @@
 num = 1
 
-while num<11:
-    
+while num < 11:
+
 
 
 
