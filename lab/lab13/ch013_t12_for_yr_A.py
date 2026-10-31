@@ -1,9 +1,9 @@
 phrase = "A bird in the hand..."
 
 # Add your for loop
-for a in phrase:
-    if a == 'A' or char
-    print(a, end='')
+for char in phrase:
+    if char == 'A' or char
+    print(char, end='')
 
 # Don't delete this print statement!
 print()
