@@ -1,4 +1,5 @@
 hobbies = ["football", "tennis", "reading"]
 
 # Add your code below!
-for hobbies in hobbies
+for hobby in hobbies:
+    
