@@ -14,3 +14,4 @@ while guesses_left > 0:
     guesses_left -= 1
 else:
     print("You lose.")
+    print("The answer is  ")
