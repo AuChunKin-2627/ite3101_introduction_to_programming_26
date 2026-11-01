@@ -1,3 +1,3 @@
-lloyd = {'name': '', 'homework':,}
+lloyd = {'name': '', 'homework':, '', 'quizzes':, '',}
 alice = {}
 tyler = {}
