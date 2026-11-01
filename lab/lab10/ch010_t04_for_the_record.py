@@ -19,3 +19,4 @@ tyler = {
 students = [lloyd, alice, tyler]
 for x in students:
     print(x[name])
+    print(x[homwork])
