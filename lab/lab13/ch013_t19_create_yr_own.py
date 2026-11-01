@@ -1,1 +1,1 @@
-for x in range()
+for x in range(3)
