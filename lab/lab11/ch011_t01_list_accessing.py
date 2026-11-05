@@ -1,4 +1,4 @@
 n = [1, 3, 5]
 
 # Add your code below
-print(3)
+print(n[1])
