@@ -8,4 +8,4 @@ def join_strings(words: list[str]):
         result = result + item
         print(item)
 
-# print(join_strings(n))
+print(join_strings(n))
