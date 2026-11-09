@@ -1,3 +1,5 @@
 n = [3, 5, 7]
 
-def total()
+def total(numbers:list[int])->list[int]:
+    result = []
+    
