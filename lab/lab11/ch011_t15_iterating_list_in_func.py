@@ -8,4 +8,4 @@ def total(numbers: list[int]) -> list[int]:
     return
 
 
-total(n)
+print(total(n))
