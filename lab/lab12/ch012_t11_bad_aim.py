@@ -31,7 +31,7 @@ guess_col = int(input("Guess Col: "))
 
 # Write your code below!
 if guess_row not in range(5) or guess_col not in range(5)
-
+    print("")
 if guess_row == ship_row and guess_col == ship_col:
     print("Congratulations! You sank my battleship!")
 else:
