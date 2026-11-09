@@ -6,4 +6,4 @@ def total(numbers:list[int])->list[int]:
         result = result + n
         print(item)
         return
-tota()
+tota(n)
