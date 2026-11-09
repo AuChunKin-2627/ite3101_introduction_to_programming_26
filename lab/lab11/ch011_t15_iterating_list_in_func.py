@@ -1,7 +1,7 @@
 n = [3, 5, 7]
 
 
-def total(numbers: list[int]) -> list[int]:
+def total(numbers: list[int]) -> int:
     result = 0
     for item in numbers:
         result = result + item
