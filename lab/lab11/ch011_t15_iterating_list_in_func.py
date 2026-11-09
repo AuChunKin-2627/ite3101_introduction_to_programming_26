@@ -5,5 +5,5 @@ def total(numbers:list[int])->list[int]:
     for item in n:
         result = result + n
         print(item)
-        return
+    return
 total(n)
