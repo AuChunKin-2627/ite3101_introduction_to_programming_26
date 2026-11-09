@@ -1,2 +1,2 @@
 board = []
-range(5)
+forrange(5)
