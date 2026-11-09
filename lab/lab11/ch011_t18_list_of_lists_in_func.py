@@ -6,4 +6,4 @@ def flatten(lists:list[int])->list[int]
         for b in a:
             results.append(b)
 
-# print(flatten(n))
+print(flatten(n))
