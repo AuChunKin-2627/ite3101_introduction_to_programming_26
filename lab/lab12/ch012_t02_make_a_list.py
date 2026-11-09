@@ -1,2 +1,3 @@
 board = []
-for range(5)
+for o in range(5):
+    board.append("O")*5
