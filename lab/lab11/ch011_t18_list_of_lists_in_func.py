@@ -2,7 +2,8 @@ n = [[1, 2, 3], [4, 5, 6, 7, 8, 9]]
 # Add your function here
 def flatten(lists:list[int])->list[int]
     results = []
-    for a in lists
-        for b in a
+    for a in lists:
+        for b in a:
+            results.append(b)
 
 # print(flatten(n))
