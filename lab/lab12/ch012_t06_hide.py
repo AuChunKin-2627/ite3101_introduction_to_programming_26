@@ -21,3 +21,4 @@ def randow_row(board_in: list[list[str]]) -> int:
 def randow_col(board_in: list[list[str]]) -> int:
     return randint(0, len(board_in) - 1)
 
+randow_row(board)
