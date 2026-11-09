@@ -4,4 +4,4 @@ for i in range(5):
 
 
 def print_board(board_in: list[list[str]]):
-    for
+    for row in b
