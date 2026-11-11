@@ -1,2 +1,5 @@
 def is_prim(x:int)->bool:
-    if x 
+    if x < 2:
+        return False
+    else:
+        
