@@ -1,1 +1,1 @@
-def is_int()
+def is_int(x:int)
