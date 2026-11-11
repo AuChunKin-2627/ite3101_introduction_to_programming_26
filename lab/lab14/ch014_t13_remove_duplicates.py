@@ -1,1 +1,2 @@
-def remove_duplicates(seq:list[int])->list[int]
+def remove_duplicates(seq:list[int])->list[int]:
+    
