@@ -1,4 +1,4 @@
-from typing import List
+from typing import list
 
 def count(sequence:list[int], item:int)->int:
     result = 0
