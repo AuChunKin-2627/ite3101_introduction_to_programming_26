@@ -1,1 +1,2 @@
-def con
+def consor(text:str, word:str)->str:
+    
