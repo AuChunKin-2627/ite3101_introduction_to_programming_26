@@ -1,1 +1,1 @@
-def purify(sequence:list[int])
+def purify(seq:list[int])
