@@ -1,1 +1,1 @@
-def product()
+def product(seq)
