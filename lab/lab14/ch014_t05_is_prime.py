@@ -1,1 +1,1 @@
-def is_prim(x:int)
+def is_prim(x:int)->
