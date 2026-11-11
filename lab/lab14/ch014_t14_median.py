@@ -1,4 +1,4 @@
-def median(seq: list[int]) -> float:
+def median(lst: list[int]) -> float:
     sorted_seq = sorted(seq)
     length = len(sorted_seq)
     if len(sorted_seq) % 2 == 0:
