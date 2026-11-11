@@ -3,4 +3,5 @@ def is_prim(x:int)->bool:
         return False
     else:
         for n in range(2, n - 1):
-            
+            if x % n == 0:
+                
