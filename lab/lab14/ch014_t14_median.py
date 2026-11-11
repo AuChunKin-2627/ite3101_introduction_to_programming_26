@@ -1,1 +1,2 @@
-def median(seq:list[int])
+def median(seq:list[int])->int:
+    
