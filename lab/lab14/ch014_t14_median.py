@@ -7,3 +7,4 @@ def median(seq: list[int]) -> float:
         return m
     else:
         index = len(sorted_seq) // 2
+        
