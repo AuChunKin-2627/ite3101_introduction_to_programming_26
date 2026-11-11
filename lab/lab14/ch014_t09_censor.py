@@ -4,5 +4,5 @@ def consor(text:str, word:str)->str:
         if s == word:
             result.append()
         else:
-            result.append()
+            result.append(s)
         
