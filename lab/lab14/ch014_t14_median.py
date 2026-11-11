@@ -7,5 +7,5 @@ def median(seq: list[int]) -> float:
         m = (sorted_seq[index_1]+[index_2]) / 2.0
         return m
     else:
-        index = len(sorted_seq) // 2
+        index = length // 2
         return sorted_seq[index]
