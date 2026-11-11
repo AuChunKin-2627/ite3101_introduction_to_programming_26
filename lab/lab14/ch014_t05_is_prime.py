@@ -1,1 +1,1 @@
-def is_rim
+def is_prim()
