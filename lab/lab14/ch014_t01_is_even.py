@@ -1,2 +1,2 @@
 def is_even(x:int)->bool:
-    return x 
+    return x % 2 == 0
